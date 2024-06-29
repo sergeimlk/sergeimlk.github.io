@@ -10,11 +10,12 @@ function Type() {
           "Freelancer",
           "Ai Developer",
           "Open Source Contributor",
-          "Simplon School",
+          "Simplon",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 20,
+        delay: 50,  // Vitesse d'écriture des caractères (réduit pour doubler la vitesse)
       }}
     />
   );
