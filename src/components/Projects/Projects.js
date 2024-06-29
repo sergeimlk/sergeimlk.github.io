@@ -29,12 +29,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://github.com/sergeimlk/AKIGORA/blob/main/DATA%20AKIGORA/akidemo.png"
+              imgPath="https://i.postimg.cc/02WgwT9J/akidemo.png"
               isBlog={false}
               title="[BI] DASHBOARD Intéractif"
               description="AKIGORA DASHBOARD permet aux employés de l'entreprise AKIGORA de suivre les données internes pour prenndre de meilleures decisions stratégiques."
-              ghLink="https://github.com/sergeimlk/QUIZZ"
-              demoLink="https://github.com/sergeimlk/QUIZZ"
+              ghLink="https://github.com/sergeimlk/AKIGORA"
+              demoLink="https://github.com/sergeimlk/AKIGORA"
             />
           </Col>
 
