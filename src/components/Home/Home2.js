@@ -4,7 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -65,8 +64,11 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>TROUVEZ-MOI SUR</h1>
             <p>
-              N'hésitez pas à <span className="purple">me contacter</span>
-            </p>
+        N'hésitez pas à{" "}
+        <a href="mailto:sergei.mlk@hotmail.com" className="purple">
+          me contacter
+        </a>
+      </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
@@ -78,16 +80,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/votre_compte_twitter"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/serge%C3%AF-milyukov-525661294/"
