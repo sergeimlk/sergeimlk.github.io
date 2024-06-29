@@ -16,40 +16,43 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              PERMETTEZ-MOI DE <span className="purple"> ME PRÉSENTER </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Je suis passionné par le développement d'applications et j'ai acquis des compétences
+              fondamentales en développement frontend et backend à l'école Simplon.
               <br />
-              <br />I am fluent in classics like
+              <br />Je maîtrise des langages classiques comme
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> HTML, CSS, JS, TS, Flask, Angular, NodeJS, Streamlit, Python, SQL, et Power BI. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Mes domaines d'intérêt incluent la création de nouvelles&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple">technologies web et produits</b> ainsi que des domaines liés à{" "}
+                <b className="purple">l'intelligence artificielle et au machine learning</b>.
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Chaque fois que possible, j'applique également ma passion pour le développement de produits
+              avec <b className="purple">Node.js</b> et
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  des bibliothèques et frameworks JavaScript modernes
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; comme
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js et Next.js</b>.
               </i>
+              <br />
+              <br />
+              En plus de mes compétences techniques, je suis rigoureux, ponctuel et créatif, avec un excellent esprit d'équipe. Ma curiosité et ma motivation me poussent à continuer d'apprendre et à me perfectionner dans le domaine de la programmation.
+              <br />
+              <br />
+              J'ai également animé des ateliers de découverte sur la programmation en Python et les bases de l'IA, partageant mes connaissances et encourageant l'apprentissage au sein de la communauté.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,14 +63,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>TROUVEZ-MOI SUR</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              N'hésitez pas à <span className="purple">me contacter</span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/sergeimlk"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +80,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/votre_compte_twitter"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +90,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/sergeimlk/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +100,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/votre_compte_instagram"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -112,4 +115,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
