@@ -11,7 +11,9 @@ function AboutCard() {
             Bonjour à tous, je suis <span className="purple">Sergeï MILYUKOV </span>
             de <span className="purple">Biarritz, France.</span>
             <br />
-            Je suis actuellement en formation de développeur d'applications à l'école Simplon.
+            Je suis actuellement 
+            <br />
+            En formation de développeur d'applications à l'école Simplon depuis le mois d'Avril 2024,
             <br />
             Passionné par les nouvelles technologies en constante évolution, je suis convaincu qu'elles offrent de nombreuses opportunités 
             d'innovation et d'amélioration de la qualité de vie.
@@ -21,18 +23,18 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Jouer à des jeux
+              <ImPointRight /> Création musicale
             </li>
             <li className="about-activity">
-              <ImPointRight /> Écrire des blogs technologiques
+              <ImPointRight /> Sport et musculation en salle
             </li>
             <li className="about-activity">
-              <ImPointRight /> Voyager
+              <ImPointRight /> Peinture & Dessin
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "S'efforcer de construire des choses qui font la différence !"{" "}
+          “Favoriser le progrès par l’excellence en programmation, une ligne de code à la fois !"{" "}
           </p>
           <footer className="blockquote-footer">Sergeï</footer>
         </blockquote>
