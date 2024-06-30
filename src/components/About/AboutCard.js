@@ -34,7 +34,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-          “Favoriser le progrès par l’excellence en programmation, une ligne de code à la fois !"{" "}
+          “Favoriser le progrès par l’excellence en programmation, <br/> une ligne de code à la fois !"{" "}
           </p>
           <footer className="blockquote-footer">Sergeï</footer>
         </blockquote>
