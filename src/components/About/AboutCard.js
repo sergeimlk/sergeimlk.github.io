@@ -11,10 +11,10 @@ function AboutCard() {
             Bonjour à tous, je suis <span className="purple">Sergeï MILYUKOV </span>
             de <span className="purple">Biarritz, France.</span>
             <br />
-            Je suis actuellement 
+            Je suis actuellement à la recherche d'une alternance!
             <br />
             En formation de développeur d'applications à l'école Simplon depuis le mois d'Avril 2024,
-            <br />
+            <br /><br />
             Passionné par les nouvelles technologies en constante évolution, je suis convaincu qu'elles offrent de nombreuses opportunités 
             d'innovation et d'amélioration de la qualité de vie.
             <br />
@@ -36,7 +36,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
           “Favoriser le progrès par l’excellence en programmation, <br/> une ligne de code à la fois !"{" "}
           </p>
-          <footer className="blockquote-footer">Sergeï</footer>
+          <footer className="blockquote-footer">Sergeï M.</footer>
         </blockquote>
       </Card.Body>
     </Card>
