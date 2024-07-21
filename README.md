@@ -1,5 +1,5 @@
 <h2 align="center">
-LINK : https://sergeimlk.github.io/
+LINK : https://sergeimlk.github.io/ <br>
 This project was built using these technologies.
 </h2>
 
