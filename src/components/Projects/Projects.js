@@ -31,7 +31,7 @@ function Projects() {
             <ProjectCard
               imgPath="https://i.postimg.cc/02WgwT9J/akidemo.png"
               isBlog={false}
-              title="[BI] DASHBOARD Intéractif"
+              title="[BI555] DASHBOARD Intéractif"
               description="AKIGORA DASHBOARD permet aux employés de l'entreprise AKIGORA de suivre les données internes pour prenndre de meilleures decisions stratégiques."
               ghLink="https://github.com/sergeimlk/AKIGORA"
               demoLink="https://github.com/sergeimlk/AKIGORA"
@@ -40,7 +40,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="https://i.postimg.cc/02WgwT9J/akidemo.png"
+              imgPath="src/Assets/Projects/ST.svg"
               isBlog={false}
               title="[ST] DETECTEUR DE PERSONNES"
               description="Durant une semaine, nous avons travaillé sur l'analyse des données récoltées par le capteur pour distinguer plusieurs classes de personnes dans les lieux publics"
