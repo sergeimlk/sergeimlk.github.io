@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 Je suis
-                <strong className="main-name"> Sergeï MILYUKOV, AppDev Junior</strong> <br/>
+                <strong className="main-name"> Sergeï MILYUKOV, <br/>AppDev Junior</strong> <br/>
               </h1>
               <h1 className="heading-name">
                 Je suis à la recherche d'une alternance
